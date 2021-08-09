@@ -1,9 +1,6 @@
 ## Olá eu sou o Paulo Eduardo
 
 
-- 🔭 Atualmente trabalho como Front-End 
-- 🌱 Hoje estpu estudando JavaScript 
-
 <div>
   <a heref="https://github.com/P-Eduardo">
    <img heigt="180em" src="https://github-readme-stats.vercel.app/api?username=P-Eduardo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
