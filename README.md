@@ -1,11 +1,6 @@
 ## Olá eu sou o Paulo Eduardo
 
 
-<div>
-  <a heref="https://github.com/P-Eduardo">
-   <img heigt="180em" src="https://github-readme-stats.vercel.app/api?username=P-Eduardo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
- <div style="display: inline_block"><br>
    
  <div>
      <img align="center" alt="P-edu-HTML" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
